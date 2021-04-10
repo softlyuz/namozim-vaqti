@@ -6,7 +6,7 @@
   "scripts": {
     "devMon": "nodemon index.js",
     "serverMon": "nodemon app/database/server.js",
-    "start": "set NODE_ENV=production && node src/core",
+    "start": "set NODE_ENV=production && node app/core",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Blocker",
