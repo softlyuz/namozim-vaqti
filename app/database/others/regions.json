@@ -1,0 +1,1335 @@
+[
+	{
+		"name": "Xorazm",
+		"regions": [
+			{
+				"id": 1,
+				"name": "Bog'ot",
+				"centre": "Bog'ot",
+				"latitude": "41.325935",
+				"longitude": "60.836552",
+				"addressLine": "Oʻzbekiston, Xorazm viloyati, Bogʻot tumani"
+			},
+			{
+				"id": 2,
+				"name": "Gurlan",
+				"centre": "Gurlan",
+				"latitude": "41.880465",
+				"longitude": "60.354624",
+				"addressLine": "Oʻzbekiston, Xorazm viloyati, Gurlan tumani"
+			},
+			{
+				"id": 3,
+				"name": "Xonqa",
+				"centre": "Xonqa",
+				"latitude": "41.486231",
+				"longitude": "60.834441",
+				"addressLine": "Oʻzbekiston, Xorazm viloyati, Xonqa tumani"
+			},
+			{
+				"id": 4,
+				"name": "Hazorasp",
+				"centre": "Hazorasp",
+				"latitude": "41.284262",
+				"longitude": "61.140964",
+				"addressLine": "Oʻzbekiston, Xorazm viloyati, Hazorasp tumani"
+			},
+			{
+				"id": 5,
+				"name": "Xiva",
+				"centre": "Xiva",
+				"latitude": "41.384443",
+				"longitude": "60.361864",
+				"addressLine": "Oʻzbekiston, Xorazm viloyati, Xiva"
+			},
+			{
+				"id": 6,
+				"name": "Qo'shko'pir",
+				"centre": "Qo'shko'pir",
+				"latitude": "41.503974",
+				"longitude": "60.261981",
+				"addressLine": "Oʻzbekiston, Xorazm viloyati, Qoʻshkoʻpir tumani"
+			},
+			{
+				"id": 7,
+				"name": "Shovot",
+				"centre": "Shovot",
+				"latitude": "41.691022",
+				"longitude": "60.255225",
+				"addressLine": "Oʻzbekiston, Xorazm viloyati, Shovot tumani"
+			},
+			{
+				"id": 8,
+				"name": "Urganch",
+				"centre": "Qorovul",
+				"latitude": "41.549689",
+				"longitude": "60.631377",
+				"addressLine": "Oʻzbekiston, Xorazm viloyati, Urganch"
+			},
+			{
+				"id": 9,
+				"name": "Yangiariq",
+				"centre": "Yangiariq",
+				"latitude": "41.325265",
+				"longitude": "60.585805",
+				"addressLine": "Oʻzbekiston, Xorazm viloyati, Yangiariq tumani"
+			},
+			{
+				"id": 10,
+				"name": "Yangibozor",
+				"centre": "Yangibozor",
+				"latitude": "41.729613",
+				"longitude": "60.489371",
+				"addressLine": "Oʻzbekiston, Xorazm viloyati, Yangibozor tumani"
+			},
+			{
+				"id": 11,
+				"name": "Tuproqqal'a",
+				"centre": "Tuproqqal'a",
+				"latitude": "41.205986",
+				"longitude": "61.286033",
+				"addressLine": "Oʻzbekiston, Xorazm viloyati, Tuproqqalʼa tumani"
+			}
+		],
+		"latitude": "41.433454",
+		"longitude": "60.615378",
+		"addressLine": "Oʻzbekiston, Xorazm viloyati"
+	},
+	{
+		"name": "Navoiy",
+		"regions": [
+			{
+				"id": 1,
+				"name": "Konimex",
+				"centre": "Konimex",
+				"latitude": "41.0589",
+				"longitude": "64.622457",
+				"addressLine": "Oʻzbekiston, Navoiy viloyati, Konimex tumani"
+			},
+			{
+				"id": 2,
+				"name": "Karmana",
+				"centre": "Karmana",
+				"latitude": "40.03813",
+				"longitude": "65.278452",
+				"addressLine": "Oʻzbekiston, Navoiy viloyati, Karmana tumani"
+			},
+			{
+				"id": 3,
+				"name": "Qiziltepa",
+				"centre": "Qiziltepa",
+				"latitude": "40.037487",
+				"longitude": "64.851366",
+				"addressLine": "Oʻzbekiston, Navoiy viloyati, Qiziltepa tumani, Qiziltepa"
+			},
+			{
+				"id": 4,
+				"name": "Xatirchi",
+				"centre": "Yangirabot",
+				"latitude": "40.191449",
+				"longitude": "65.943636",
+				"addressLine": "Oʻzbekiston, Navoiy viloyati, Xatirchi tumani"
+			},
+			{
+				"id": 5,
+				"name": "Navbahor",
+				"centre": "Beshrabot",
+				"latitude": "40.258971",
+				"longitude": "65.439645",
+				"addressLine": "Oʻzbekiston, Navoiy viloyati, Navbahor tumani"
+			},
+			{
+				"id": 6,
+				"name": "Nurota",
+				"centre": "Nurota",
+				"latitude": "40.564798",
+				"longitude": "65.693006",
+				"addressLine": "Oʻzbekiston, Navoiy viloyati, Nurota tumani, Nurota"
+			},
+			{
+				"id": 7,
+				"name": "Tomdi",
+				"centre": "Tomdibuloq",
+				"latitude": "42.052267",
+				"longitude": "65.243642",
+				"addressLine": "Oʻzbekiston, Navoiy viloyati, Tomdi tumani"
+			},
+			{
+				"id": 8,
+				"name": "Uchquduq",
+				"centre": "Uchquduq",
+				"latitude": "41.179658",
+				"longitude": "64.551364",
+				"addressLine": "Oʻzbekiston, A379"
+			}
+		],
+		"latitude": "40.103086",
+		"longitude": "65.373961",
+		"addressLine": "Oʻzbekiston, Navoiy"
+	},
+	{
+		"name": "Buxoro",
+		"regions": [
+			{
+				"id": 1,
+				"name": "Olot",
+				"centre": "Olot",
+				"latitude": "39.413378",
+				"longitude": "63.802439",
+				"addressLine": "Oʻzbekiston, Buxoro viloyati, Olot tumani, Olot"
+			},
+			{
+				"id": 2,
+				"name": "Buxoro",
+				"centre": "Galaosiyo",
+				"latitude": "39.767945",
+				"longitude": "64.421701",
+				"addressLine": "Oʻzbekiston, Buxoro viloyati, Buxoro"
+			},
+			{
+				"id": 3,
+				"name": "G'ijduvon",
+				"centre": "G'ijduvon",
+				"latitude": "40.10279",
+				"longitude": "64.678467",
+				"addressLine": "Oʻzbekiston, Buxoro viloyati, Gʻijduvon tumani, Gʻijduvon"
+			},
+			{
+				"id": 4,
+				"name": "Jondor",
+				"centre": "Jondor",
+				"latitude": "39.92871",
+				"longitude": "63.668671",
+				"addressLine": "Oʻzbekiston, Buxoro viloyati, Jondor tumani"
+			},
+			{
+				"id": 5,
+				"name": "Kogon",
+				"centre": "Kogon",
+				"latitude": "39.723523",
+				"longitude": "64.54716",
+				"addressLine": "Oʻzbekiston, Buxoro viloyati, Kogon"
+			},
+			{
+				"id": 6,
+				"name": "Qorako'l",
+				"centre": "Qorako'l",
+				"latitude": "39.531409",
+				"longitude": "63.835452",
+				"addressLine": "Oʻzbekiston, Buxoro viloyati, Qorakoʻl tumani, Qorakoʻl"
+			},
+			{
+				"id": 7,
+				"name": "Qorovulbozor",
+				"centre": "Qorovulbozor",
+				"latitude": "39.499938",
+				"longitude": "64.791071",
+				"addressLine": "Oʻzbekiston, Buxoro viloyati, Qorovulbozor tumani, Qorovulbozor"
+			},
+			{
+				"id": 8,
+				"name": "Peshku",
+				"centre": "Yangibozor",
+				"latitude": "40.591524",
+				"longitude": "63.39402",
+				"addressLine": "Oʻzbekiston, Buxoro viloyati, Peshku tumani"
+			},
+			{
+				"id": 9,
+				"name": "Romitan",
+				"centre": "Romitan",
+				"latitude": "39.93315",
+				"longitude": "64.382652",
+				"addressLine": "Oʻzbekiston, Buxoro viloyati, Romitan tumani, Romitan"
+			},
+			{
+				"id": 10,
+				"name": "Shofirkon",
+				"centre": "Shofirkon",
+				"latitude": "40.118268",
+				"longitude": "64.502586",
+				"addressLine": "Oʻzbekiston, Buxoro viloyati, Shofirkon tumani, Shofirkon"
+			},
+			{
+				"id": 11,
+				"name": "Vobkent",
+				"centre": "Vobkent",
+				"latitude": "39.78937",
+				"longitude": "64.416815",
+				"addressLine": "Oʻzbekiston, Buxoro viloyati, Buxoro, Vobkent ko'chasi"
+			}
+		],
+		"latitude": "39.767945",
+		"longitude": "64.421701",
+		"addressLine": "Oʻzbekiston, Buxoro viloyati, Buxoro"
+	},
+	{
+		"name": "Samarqand",
+		"regions": [
+			{
+				"id": 1,
+				"name": "Bulung'ur",
+				"centre": "Bulung'ur",
+				"latitude": "39.762947",
+				"longitude": "67.2729",
+				"addressLine": "Oʻzbekiston, Samarqand viloyati, Bulungʻur tumani, Bulungʻur"
+			},
+			{
+				"id": 2,
+				"name": "Ishtixon",
+				"centre": "Ishtixon",
+				"latitude": "39.964857",
+				"longitude": "66.487252",
+				"addressLine": "Oʻzbekiston, Samarqand viloyati, Ishtixon tumani, Ishtixon"
+			},
+			{
+				"id": 3,
+				"name": "Jomboy",
+				"centre": "Jomboy",
+				"latitude": "39.69697",
+				"longitude": "67.096471",
+				"addressLine": "Oʻzbekiston, Samarqand viloyati, Jomboy tumani, Jomboy"
+			},
+			{
+				"id": 4,
+				"name": "Kattaqo'rg'on",
+				"centre": "Payshanba",
+				"latitude": "39.903504",
+				"longitude": "66.265035",
+				"addressLine": "Oʻzbekiston, Samarqand viloyati, Kattaqoʻrgʻon"
+			},
+			{
+				"id": 5,
+				"name": "Qo'shrabot",
+				"centre": "Qo'shrabot",
+				"latitude": "40.379515",
+				"longitude": "66.533389",
+				"addressLine": "Oʻzbekiston, Samarqand viloyati, Qo'shrabot tumani"
+			},
+			{
+				"id": 6,
+				"name": "Narpay",
+				"centre": "Oqtosh",
+				"latitude": "39.933116",
+				"longitude": "65.982479",
+				"addressLine": "Oʻzbekiston, Samarqand viloyati, Narpay tumani"
+			},
+			{
+				"id": 7,
+				"name": "Nurobod",
+				"centre": "Nurobod",
+				"latitude": "39.608295",
+				"longitude": "66.283289",
+				"addressLine": "Oʻzbekiston, Samarqand viloyati, Nurobod tumani, Nurobod"
+			},
+			{
+				"id": 8,
+				"name": "Oqdaryo",
+				"centre": "Loyish",
+				"latitude": "39.973027",
+				"longitude": "66.50175",
+				"addressLine": "Oʻzbekiston, Samarqand viloyati, Oqdaryo"
+			},
+			{
+				"id": 9,
+				"name": "Paxtachi",
+				"centre": "Ziyodin",
+				"latitude": "39.88525",
+				"longitude": "65.569111",
+				"addressLine": "Oʻzbekiston, Samarqand viloyati, Paxtachi tumani"
+			},
+			{
+				"id": 10,
+				"name": "Payariq",
+				"centre": "Payariq",
+				"latitude": "39.990041",
+				"longitude": "66.846353",
+				"addressLine": "Oʻzbekiston, Samarqand viloyati, Payariq tumani, Payariq"
+			},
+			{
+				"id": 11,
+				"name": "Pastdarg'om",
+				"centre": "Juma",
+				"latitude": "39.660431",
+				"longitude": "66.662297",
+				"addressLine": "Oʻzbekiston, Samarqand viloyati, Pastdargʻom tumani"
+			},
+			{
+				"id": 12,
+				"name": "Samarqand",
+				"centre": "Gulobod",
+				"latitude": "39.654515",
+				"longitude": "66.968847",
+				"addressLine": "Oʻzbekiston, Samarqand"
+			},
+			{
+				"id": 13,
+				"name": "Toyloq",
+				"centre": "Toyloq",
+				"latitude": "39.570798",
+				"longitude": "67.150181",
+				"addressLine": "Oʻzbekiston, Samarqand viloyati, Toyloq tumani"
+			},
+			{
+				"id": 14,
+				"name": "Urgut",
+				"centre": "Urgut",
+				"latitude": "39.408814",
+				"longitude": "67.243391",
+				"addressLine": "Oʻzbekiston, Samarqand viloyati, Urgut tumani, Urgut"
+			}
+		],
+		"latitude": "39.654515",
+		"longitude": "66.968847",
+		"addressLine": "Oʻzbekiston, Samarqand"
+	},
+	{
+		"name": "Qashqadaryo",
+		"regions": [
+			{
+				"id": 1,
+				"name": "Chiroqchi",
+				"centre": "Chiroqchi",
+				"latitude": "39.03171",
+				"longitude": "66.572412",
+				"addressLine": "Oʻzbekiston, Qashqadaryo viloyati, Chiroqchi tumani, Chiroqchi"
+			},
+			{
+				"id": 2,
+				"name": "Dehqonobod",
+				"centre": "Karashina",
+				"latitude": "38.367509",
+				"longitude": "66.629814",
+				"addressLine": "Oʻzbekiston, Qashqadaryo viloyati, Dehqonobod tumani"
+			},
+			{
+				"id": 3,
+				"name": "G'uzor",
+				"centre": "G'uzor",
+				"latitude": "38.626751",
+				"longitude": "66.252558",
+				"addressLine": "Oʻzbekiston, Qashqadaryo viloyati, Gʻuzor"
+			},
+			{
+				"id": 4,
+				"name": "Qamashi",
+				"centre": "Qamashi",
+				"latitude": "38.812345",
+				"longitude": "66.480101",
+				"addressLine": "Oʻzbekiston, Qashqadaryo viloyati, Qamashi tumani, Qamashi"
+			},
+			{
+				"id": 5,
+				"name": "Qarshi",
+				"centre": "Beshkent",
+				"latitude": "38.84164",
+				"longitude": "65.789979",
+				"addressLine": "Oʻzbekiston, Qashqadaryo viloyati, Qarshi"
+			},
+			{
+				"id": 6,
+				"name": "Koson",
+				"centre": "Koson",
+				"latitude": "39.04156",
+				"longitude": "65.585352",
+				"addressLine": "Oʻzbekiston, Qashqadaryo viloyati, Koson tumani, Koson"
+			},
+			{
+				"id": 7,
+				"name": "Kasbi",
+				"centre": "Mug'lon",
+				"latitude": "38.893989",
+				"longitude": "65.453677",
+				"addressLine": "Oʻzbekiston, Qashqadaryo viloyati, Kasbi tumani"
+			},
+			{
+				"id": 8,
+				"name": "Kitob",
+				"centre": "Kitob",
+				"latitude": "39.118508",
+				"longitude": "66.874929",
+				"addressLine": "Oʻzbekiston, Qashqadaryo viloyati, Kitob tumani, Kitob"
+			},
+			{
+				"id": 9,
+				"name": "Mirishkor",
+				"centre": "Yangi Mirishkor",
+				"latitude": "38.819683",
+				"longitude": "64.977902",
+				"addressLine": "Oʻzbekiston, Qashqadaryo viloyati, Mirishkor tumani"
+			},
+			{
+				"id": 10,
+				"name": "Muborak",
+				"centre": "Muborak",
+				"latitude": "39.261236",
+				"longitude": "65.156811",
+				"addressLine": "Oʻzbekiston, Qashqadaryo viloyati, Muborak tumani, Muborak"
+			},
+			{
+				"id": 11,
+				"name": "Nishon",
+				"centre": "Yangi Nishon",
+				"latitude": "38.519305",
+				"longitude": "65.578031",
+				"addressLine": "Oʻzbekiston, Qashqadaryo viloyati, Nishon tumani"
+			},
+			{
+				"id": 12,
+				"name": "Shahrisabz",
+				"centre": "Shahrisabz",
+				"latitude": "39.060073",
+				"longitude": "66.829483",
+				"addressLine": "Oʻzbekiston, Qashqadaryo viloyati, Shahrisabz"
+			},
+			{
+				"id": 13,
+				"name": "Yakkabog'",
+				"centre": "Yakkabog'",
+				"latitude": "38.977346",
+				"longitude": "66.687881",
+				"addressLine": "Oʻzbekiston, Qashqadaryo viloyati, Yakkabogʻ tumani, Yakkabogʻ"
+			}
+		],
+		"latitude": "38.681237",
+		"longitude": "66.130504",
+		"addressLine": "Oʻzbekiston, Qashqadaryo viloyati"
+	},
+	{
+		"name": "Surxondaryo",
+		"regions": [
+			{
+				"id": 1,
+				"name": "Angor",
+				"centre": "Angor",
+				"latitude": "37.435593",
+				"longitude": "67.221094",
+				"addressLine": "Oʻzbekiston, Surxondaryo viloyati, Angor tumani"
+			},
+			{
+				"id": 2,
+				"name": "Boysun",
+				"centre": "Boysun",
+				"latitude": "38.208254",
+				"longitude": "67.207072",
+				"addressLine": "Oʻzbekiston, Surxondaryo viloyati, Boysun tumani, Boysun"
+			},
+			{
+				"id": 3,
+				"name": "Denov",
+				"centre": "Denov",
+				"latitude": "38.274929",
+				"longitude": "67.89625",
+				"addressLine": "Oʻzbekiston, Surxondaryo viloyati, Denov tumani, Denov"
+			},
+			{
+				"id": 4,
+				"name": "Jarqo'rg'on",
+				"centre": "Jarqo'rg'on",
+				"latitude": "37.508379",
+				"longitude": "67.413693",
+				"addressLine": "Oʻzbekiston, Surxondaryo viloyati, Jarqoʻrgʻon tumani, Jarqoʻrgʻon"
+			},
+			{
+				"id": 5,
+				"name": "Qiziriq",
+				"centre": "Sariq",
+				"latitude": "37.648587",
+				"longitude": "67.245151",
+				"addressLine": "Oʻzbekiston, Surxondaryo viloyati, Qiziriq tumani"
+			},
+			{
+				"id": 6,
+				"name": "Qumqo'rg'on",
+				"centre": "Qumqo'rg'on",
+				"latitude": "37.825362",
+				"longitude": "67.591793",
+				"addressLine": "Oʻzbekiston, Surxondaryo viloyati, Qumqoʻrgʻon tumani, Qumqoʻrgʻon"
+			},
+			{
+				"id": 7,
+				"name": "Muzrabot",
+				"centre": "Xalqobod",
+				"latitude": "37.423099",
+				"longitude": "66.864104",
+				"addressLine": "Oʻzbekiston, Surxondaryo viloyati, Muzrabot tumani"
+			},
+			{
+				"id": 8,
+				"name": "Oltinsoy",
+				"centre": "Qarluq",
+				"latitude": "38.181917",
+				"longitude": "67.733628",
+				"addressLine": "Oʻzbekiston, Surxondaryo viloyati, Oltinsoy tumani"
+			},
+			{
+				"id": 9,
+				"name": "Sariosiyo",
+				"centre": "Sariosiyo",
+				"latitude": "38.732662",
+				"longitude": "67.801774",
+				"addressLine": "Oʻzbekiston, Surxondaryo viloyati, Sariosiyo tumani"
+			},
+			{
+				"id": 10,
+				"name": "Sherobod",
+				"centre": "Sherobod",
+				"latitude": "37.675182",
+				"longitude": "67.016485",
+				"addressLine": "Oʻzbekiston, Surxondaryo viloyati, Sherobod tumani, Sherobod"
+			},
+			{
+				"id": 11,
+				"name": "Sho'rchi",
+				"centre": "Sho'rchi",
+				"latitude": "38.010959",
+				"longitude": "67.790599",
+				"addressLine": "Oʻzbekiston, Surxondaryo viloyati, Shoʻrchi tumani, Shoʻrchi"
+			},
+			{
+				"id": 12,
+				"name": "Termiz",
+				"centre": "Uchqizil",
+				"latitude": "37.229019",
+				"longitude": "67.276754",
+				"addressLine": "Oʻzbekiston, Surxondaryo viloyati, Termiz"
+			},
+			{
+				"id": 13,
+				"name": "Uzun",
+				"centre": "Uzun",
+				"latitude": "38.168266",
+				"longitude": "68.182696",
+				"addressLine": "Oʻzbekiston, Surxondaryo viloyati, Uzun tumani"
+			}
+		],
+		"latitude": "37.956731",
+		"longitude": "67.484031",
+		"addressLine": "Oʻzbekiston, Surxondaryo viloyati"
+	},
+	{
+		"name": "Jizzax",
+		"regions": [
+			{
+				"id": 1,
+				"name": "Arnasoy",
+				"centre": "G'oliblar",
+				"latitude": "40.569319",
+				"longitude": "67.831661",
+				"addressLine": "Oʻzbekiston, Jizzax viloyati, Arnasoy tumani"
+			},
+			{
+				"id": 2,
+				"name": "Baxmal",
+				"centre": "Usmat",
+				"latitude": "39.750439",
+				"longitude": "67.864647",
+				"addressLine": "Oʻzbekiston, Jizzax viloyati, Baxmal tumani"
+			},
+			{
+				"id": 3,
+				"name": "Do'stlik",
+				"centre": "Do'stlik",
+				"latitude": "40.524976",
+				"longitude": "68.032605",
+				"addressLine": "Oʻzbekiston, Jizzax viloyati, Doʻstlik tumani, Doʻstlik"
+			},
+			{
+				"id": 4,
+				"name": "Forish",
+				"centre": "Yangiqishloq",
+				"latitude": "40.649427",
+				"longitude": "67.178451",
+				"addressLine": "Oʻzbekiston, Jizzax viloyati, Forish tumani"
+			},
+			{
+				"id": 5,
+				"name": "G'allaorol",
+				"centre": "G'allaorol",
+				"latitude": "40.026722",
+				"longitude": "67.59182",
+				"addressLine": "Oʻzbekiston, Jizzax viloyati, Gʻallaorol tumani, Gʻallaorol"
+			},
+			{
+				"id": 6,
+				"name": "Sharof Rashidov",
+				"centre": "Uchtepa",
+				"latitude": "40.010594",
+				"longitude": "67.881491",
+				"addressLine": "Oʻzbekiston, Jizzax viloyati, Sharof Rashidov tumani"
+			},
+			{
+				"id": 7,
+				"name": "Mirzacho'l",
+				"centre": "Gagarin",
+				"latitude": "40.699033",
+				"longitude": "68.093754",
+				"addressLine": "Oʻzbekiston, Jizzax viloyati, Mirzachoʻl tumani"
+			},
+			{
+				"id": 8,
+				"name": "Paxtakor",
+				"centre": "Paxtakor",
+				"latitude": "40.310781",
+				"longitude": "67.956096",
+				"addressLine": "Oʻzbekiston, Jizzax viloyati, Paxtakor"
+			},
+			{
+				"id": 9,
+				"name": "Yangiobod",
+				"centre": "Balandchaqir",
+				"latitude": "40.003196",
+				"longitude": "68.766296",
+				"addressLine": "Oʻzbekiston, Jizzax viloyati, Yangiobod tumani"
+			},
+			{
+				"id": 10,
+				"name": "Zomin",
+				"centre": "Zomin",
+				"latitude": "39.895395",
+				"longitude": "68.341806",
+				"addressLine": "Oʻzbekiston, Jizzax viloyati, Zomin tumani"
+			},
+			{
+				"id": 11,
+				"name": "Zafarobod",
+				"centre": "Zafarobod",
+				"latitude": "40.358744",
+				"longitude": "67.796762",
+				"addressLine": "Oʻzbekiston, Jizzax viloyati, Zafarobod tumani"
+			},
+			{
+				"id": 12,
+				"name": "Zarbdor",
+				"centre": "Zarbdor",
+				"latitude": "40.156492",
+				"longitude": "68.17533",
+				"addressLine": "Oʻzbekiston, Jizzax viloyati, Zarbdor tumani"
+			}
+		],
+		"latitude": "40.120288",
+		"longitude": "67.828508",
+		"addressLine": "Oʻzbekiston, Jizzax"
+	},
+	{
+		"name": "Sirdaryo",
+		"regions": [
+			{
+				"id": 1,
+				"name": "Oqoltin",
+				"centre": "Sardoba",
+				"latitude": "40.533352",
+				"longitude": "68.326184",
+				"addressLine": "Oʻzbekiston, Sirdaryo viloyati, Oqoltin tumani"
+			},
+			{
+				"id": 2,
+				"name": "Boyovut",
+				"centre": "Boyovut",
+				"latitude": "40.366096",
+				"longitude": "68.941144",
+				"addressLine": "Oʻzbekiston, Sirdaryo viloyati, Boyovut tumani"
+			},
+			{
+				"id": 3,
+				"name": "Guliston",
+				"centre": "Dehqonobod",
+				"latitude": "40.492764",
+				"longitude": "68.777165",
+				"addressLine": "Oʻzbekiston, Sirdaryo viloyati, Guliston"
+			},
+			{
+				"id": 4,
+				"name": "Xovos",
+				"centre": "Xovos",
+				"latitude": "40.230734",
+				"longitude": "68.713843",
+				"addressLine": "Oʻzbekiston, Sirdaryo viloyati, Xovos tumani"
+			},
+			{
+				"id": 5,
+				"name": "Mirzaobod",
+				"centre": "Navro'z",
+				"latitude": "40.451136",
+				"longitude": "68.633866",
+				"addressLine": "Oʻzbekiston, Sirdaryo viloyati, Mirzaobod tumani"
+			},
+			{
+				"id": 6,
+				"name": "Sayxunobod",
+				"centre": "Sayxun",
+				"latitude": "40.657411",
+				"longitude": "68.832043",
+				"addressLine": "Oʻzbekiston, Sirdaryo viloyati, Sayxunobod tumani"
+			},
+			{
+				"id": 7,
+				"name": "Sardoba",
+				"centre": "Paxtaobod",
+				"latitude": "40.544277",
+				"longitude": "68.413806",
+				"addressLine": "Oʻzbekiston, Sirdaryo viloyati, Oqoltin tumani, Sardoba shaharchasi"
+			},
+			{
+				"id": 8,
+				"name": "Sirdaryo",
+				"centre": "Sirdaryo",
+				"latitude": "40.838837",
+				"longitude": "68.664229",
+				"addressLine": "Oʻzbekiston, Sirdaryo viloyati, Sirdaryo tumani, Sirdaryo"
+			}
+		],
+		"latitude": "40.838837",
+		"longitude": "68.664229",
+		"addressLine": "Oʻzbekiston, Sirdaryo viloyati, Sirdaryo tumani, Sirdaryo"
+	},
+	{
+		"name": "Toshkent",
+		"regions": [
+			{
+				"id": 1,
+				"name": "Bekobod",
+				"centre": "Zafar",
+				"latitude": "40.217699",
+				"longitude": "69.265795",
+				"addressLine": "Oʻzbekiston, Toshkent viloyati, Bekobod"
+			},
+			{
+				"id": 2,
+				"name": "Bo'stonliq",
+				"centre": "G'azalkent",
+				"latitude": "41.571603",
+				"longitude": "69.939343",
+				"addressLine": "Oʻzbekiston, Toshkent viloyati, Boʻstonliq tumani"
+			},
+			{
+				"id": 3,
+				"name": "Bo'ka",
+				"centre": "Bo'ka",
+				"latitude": "40.814272",
+				"longitude": "69.201305",
+				"addressLine": "Oʻzbekiston, Toshkent viloyati, Boʻka tumani, Boʻka"
+			},
+			{
+				"id": 4,
+				"name": "Chinoz",
+				"centre": "Chinoz",
+				"latitude": "40.934806",
+				"longitude": "68.763304",
+				"addressLine": "Oʻzbekiston, Toshkent viloyati, Chinoz tumani, Chinoz"
+			},
+			{
+				"id": 5,
+				"name": "Qibray",
+				"centre": "Qibray",
+				"latitude": "41.428701",
+				"longitude": "69.488343",
+				"addressLine": "Oʻzbekiston, Toshkent viloyati, Qibray tumani"
+			},
+			{
+				"id": 6,
+				"name": "Ohangaron",
+				"centre": "Ohangaron",
+				"latitude": "40.91044",
+				"longitude": "69.64368",
+				"addressLine": "Oʻzbekiston, Toshkent viloyati, Ohangaron"
+			},
+			{
+				"id": 7,
+				"name": "Oqqo'rg'on",
+				"centre": "Oqqo'rg'on",
+				"latitude": "40.878572",
+				"longitude": "69.046812",
+				"addressLine": "Oʻzbekiston, Toshkent viloyati, Oqqoʻrgʻon tumani, Oqqoʻrgʻon"
+			},
+			{
+				"id": 8,
+				"name": "Parkent",
+				"centre": "Parkent",
+				"latitude": "41.295008",
+				"longitude": "69.673504",
+				"addressLine": "Oʻzbekiston, Toshkent viloyati, Parkent tumani, Parkent"
+			},
+			{
+				"id": 9,
+				"name": "Piskent",
+				"centre": "Piskent",
+				"latitude": "40.898104",
+				"longitude": "69.351153",
+				"addressLine": "Oʻzbekiston, Toshkent viloyati, Piskent"
+			},
+			{
+				"id": 10,
+				"name": "Quyi chirchiq",
+				"centre": "Do'stobod",
+				"latitude": "40.934411",
+				"longitude": "68.997728",
+				"addressLine": "Oʻzbekiston, Toshkent viloyati, Quyichirchiq tumani"
+			},
+			{
+				"id": 11,
+				"name": "O'rta Chirchiq",
+				"centre": "To'ytepa",
+				"latitude": "41.057024",
+				"longitude": "69.307782",
+				"addressLine": "Oʻzbekiston, Toshkent viloyati, Oʻrtachirchiq tumani"
+			},
+			{
+				"id": 12,
+				"name": "Yangiyo'l",
+				"centre": "Gulbahor",
+				"latitude": "41.118933",
+				"longitude": "69.058544",
+				"addressLine": "Oʻzbekiston, Toshkent viloyati, Yangiyoʻl"
+			},
+			{
+				"id": 13,
+				"name": "Yuqori Chirchiq",
+				"centre": "Yangibozor",
+				"latitude": "41.187381",
+				"longitude": "69.498081",
+				"addressLine": "Oʻzbekiston, Toshkent viloyati, Yuqorichirchiq tumani"
+			},
+			{
+				"id": 14,
+				"name": "Zangiota",
+				"centre": "Keles",
+				"latitude": "41.260521",
+				"longitude": "69.085665",
+				"addressLine": "Oʻzbekiston, Toshkent viloyati, Zangiota tumani"
+			}
+		],
+		"latitude": "41.311151",
+		"longitude": "69.279737",
+		"addressLine": "Oʻzbekiston, Toshkent"
+	},
+	{
+		"name": "Namangan",
+		"regions": [
+			{
+				"id": 1,
+				"name": "Chortoq",
+				"centre": "Chortoq",
+				"latitude": "41.077005",
+				"longitude": "71.814387",
+				"addressLine": "Oʻzbekiston, Namangan viloyati, Chortoq tumani, Chortoq"
+			},
+			{
+				"id": 2,
+				"name": "Chust",
+				"centre": "Chust",
+				"latitude": "41.002392",
+				"longitude": "71.226413",
+				"addressLine": "Oʻzbekiston, Namangan viloyati, Chust tumani, Chust"
+			},
+			{
+				"id": 3,
+				"name": "Kosonsoy",
+				"centre": "Kosonsoy",
+				"latitude": "41.254651",
+				"longitude": "71.544452",
+				"addressLine": "Oʻzbekiston, Namangan viloyati, Kosonsoy tumani, Kosonsoy"
+			},
+			{
+				"id": 4,
+				"name": "Mingbuloq",
+				"centre": "Jomasho'y",
+				"latitude": "40.772551",
+				"longitude": "71.366182",
+				"addressLine": "Oʻzbekiston, Namangan viloyati, Mingbuloq tumani"
+			},
+			{
+				"id": 5,
+				"name": "Namangan",
+				"centre": "Toshbuloq",
+				"latitude": "41.000078",
+				"longitude": "71.67257",
+				"addressLine": "Oʻzbekiston, Namangan viloyati, Namangan"
+			},
+			{
+				"id": 6,
+				"name": "Norin",
+				"centre": "Haqqulobod",
+				"latitude": "40.934309",
+				"longitude": "72.013768",
+				"addressLine": "Oʻzbekiston, Namangan viloyati, Norin tumani"
+			},
+			{
+				"id": 7,
+				"name": "Pop",
+				"centre": "Pop",
+				"latitude": "40.875109",
+				"longitude": "71.097199",
+				"addressLine": "Oʻzbekiston, Namangan viloyati, Pop tumani, Pop"
+			},
+			{
+				"id": 8,
+				"name": "To'raqo'rg'on",
+				"centre": "To'raqo'rg'on",
+				"latitude": "41.000793",
+				"longitude": "71.507181",
+				"addressLine": "Oʻzbekiston, Namangan viloyati, Toʻraqoʻrgʻon tumani, Toʻraqoʻrgʻon"
+			},
+			{
+				"id": 9,
+				"name": "Uchqo'rg'on",
+				"centre": "Uchqo'rg'on",
+				"latitude": "41.114592",
+				"longitude": "72.077584",
+				"addressLine": "Oʻzbekiston, Namangan viloyati, Uchqoʻrgʻon tumani, Uchqoʻrgʻon"
+			},
+			{
+				"id": 10,
+				"name": "Uychi",
+				"centre": "Uychi",
+				"latitude": "41.03907",
+				"longitude": "71.920298",
+				"addressLine": "Oʻzbekiston, Namangan viloyati, Uychi tumani"
+			},
+			{
+				"id": 11,
+				"name": "Yangiqo'rg'on",
+				"centre": "Yangiqo'rg'on",
+				"latitude": "41.279539",
+				"longitude": "71.719372",
+				"addressLine": "Oʻzbekiston, Namangan viloyati, Yangiqo’rg’on tumani"
+			}
+		],
+		"latitude": "41.000078",
+		"longitude": "71.67257",
+		"addressLine": "Oʻzbekiston, Namangan viloyati, Namangan"
+	},
+	{
+		"name": "Farg'ona",
+		"regions": [
+			{
+				"id": 1,
+				"name": "Oltiariq",
+				"centre": "Oltiariq",
+				"latitude": "40.463302",
+				"longitude": "71.456543",
+				"addressLine": "Oʻzbekiston, Fargʻona viloyati, Oltiariq tumani"
+			},
+			{
+				"id": 2,
+				"name": "Bag'dod",
+				"centre": "Bag'dod",
+				"latitude": "40.49583",
+				"longitude": "71.219648",
+				"addressLine": "Oʻzbekiston, Fargʻona viloyati, Bagʻdod tumani"
+			},
+			{
+				"id": 3,
+				"name": "Beshariq",
+				"centre": "Beshariq",
+				"latitude": "40.43664",
+				"longitude": "70.606171",
+				"addressLine": "Oʻzbekiston, Fargʻona viloyati, Beshariq"
+			},
+			{
+				"id": 4,
+				"name": "Buvayda",
+				"centre": "Ibrat",
+				"latitude": "40.615242",
+				"longitude": "71.140965",
+				"addressLine": "Oʻzbekiston, Fargʻona viloyati, Buvayda tumani"
+			},
+			{
+				"id": 5,
+				"name": "Dang'ara",
+				"centre": "Dang'ara",
+				"latitude": "40.6331",
+				"longitude": "70.865021",
+				"addressLine": "Oʻzbekiston, Fargʻona viloyati, Dangʻara tumani"
+			},
+			{
+				"id": 6,
+				"name": "Farg'ona",
+				"centre": "Vodil",
+				"latitude": "40.38942",
+				"longitude": "71.783009",
+				"addressLine": "Oʻzbekiston, Fargʻona"
+			},
+			{
+				"id": 7,
+				"name": "Furqat",
+				"centre": "Navbahor",
+				"latitude": "40.50986",
+				"longitude": "70.760304",
+				"addressLine": "Oʻzbekiston, Fargʻona viloyati, Furqat tumani"
+			},
+			{
+				"id": 8,
+				"name": "Qo'shtepa",
+				"centre": "Langar",
+				"latitude": "40.53131",
+				"longitude": "71.61232",
+				"addressLine": "Oʻzbekiston, Fargʻona viloyati, Qoʻshtepa tumani"
+			},
+			{
+				"id": 9,
+				"name": "Quva",
+				"centre": "Quva",
+				"latitude": "40.523879",
+				"longitude": "72.068826",
+				"addressLine": "Oʻzbekiston, Fargʻona viloyati, Quva"
+			},
+			{
+				"id": 10,
+				"name": "Rishton",
+				"centre": "Rishton",
+				"latitude": "40.359273",
+				"longitude": "71.279746",
+				"addressLine": "Oʻzbekiston, Fargʻona viloyati, Rishton"
+			},
+			{
+				"id": 11,
+				"name": "So'x",
+				"centre": "Ravon",
+				"latitude": "40.038716",
+				"longitude": "71.066665",
+				"addressLine": "Oʻzbekiston, Fargʻona viloyati, Soʻx tumani"
+			},
+			{
+				"id": 12,
+				"name": "Toshloq",
+				"centre": "Toshloq",
+				"latitude": "40.513966",
+				"longitude": "71.823191",
+				"addressLine": "Oʻzbekiston, Fargʻona viloyati, Toshloq tumani"
+			},
+			{
+				"id": 13,
+				"name": "Uchko'prik",
+				"centre": "Uchko'prik",
+				"latitude": "40.523811",
+				"longitude": "71.043668",
+				"addressLine": "Oʻzbekiston, Fargʻona viloyati, Uchkoʻprik tumani"
+			},
+			{
+				"id": 14,
+				"name": "O'zbekiston",
+				"centre": "Yaypan",
+				"latitude": "40.38942",
+				"longitude": "71.783009",
+				"addressLine": "Oʻzbekiston, Fargʻona"
+			},
+			{
+				"id": 15,
+				"name": "Yozyovon",
+				"centre": "Yozyovon",
+				"latitude": "40.646341",
+				"longitude": "71.658754",
+				"addressLine": "Oʻzbekiston, Fargʻona viloyati, Yozyovon tumani"
+			}
+		],
+		"latitude": "40.38942",
+		"longitude": "71.783009",
+		"addressLine": "Oʻzbekiston, Fargʻona"
+	},
+	{
+		"name": "Andijon",
+		"regions": [
+			{
+				"id": 1,
+				"name": "Andijon",
+				"centre": "Kuyganyor",
+				"latitude": "40.783368",
+				"longitude": "72.350654",
+				"addressLine": "Oʻzbekiston, Andijon"
+			},
+			{
+				"id": 2,
+				"name": "Asaka",
+				"centre": "Asaka",
+				"latitude": "40.642372",
+				"longitude": "72.246818",
+				"addressLine": "Oʻzbekiston, Andijon viloyati, Asaka tumani, Asaka"
+			},
+			{
+				"id": 3,
+				"name": "Baliqchi",
+				"centre": "Baliqchi",
+				"latitude": "40.855632",
+				"longitude": "71.951227",
+				"addressLine": "Oʻzbekiston, Andijon viloyati, Baliqchi tumani"
+			},
+			{
+				"id": 4,
+				"name": "Bo'z",
+				"centre": "Bo'z",
+				"latitude": "40.687334",
+				"longitude": "71.921403",
+				"addressLine": "Oʻzbekiston, Andijon viloyati, Boʻston tumani, Boʻz shaharchasi"
+			},
+			{
+				"id": 5,
+				"name": "Buloqboshi",
+				"centre": "Buloqboshi",
+				"latitude": "40.609033",
+				"longitude": "72.487683",
+				"addressLine": "Oʻzbekiston, Andijon viloyati, Buloqboshi tumani"
+			},
+			{
+				"id": 6,
+				"name": "Izboskan",
+				"centre": "Poytug'",
+				"latitude": "40.912178",
+				"longitude": "72.261506",
+				"addressLine": "Oʻzbekiston, Andijon viloyati, Izboskan tumani"
+			},
+			{
+				"id": 7,
+				"name": "Jalaquduq",
+				"centre": "Oxunboboyev",
+				"latitude": "40.718892",
+				"longitude": "72.642337",
+				"addressLine": "Oʻzbekiston, Andijon viloyati, Jalaquduq tumani, Jalaquduq"
+			},
+			{
+				"id": 8,
+				"name": "Xo'jaobod",
+				"centre": "Xo'jaobod",
+				"latitude": "40.670298",
+				"longitude": "72.560654",
+				"addressLine": "Oʻzbekiston, Andijon viloyati, Xoʻjaobod tumani, Xoʻjaobod"
+			},
+			{
+				"id": 9,
+				"name": "Qo'rg'ontepa",
+				"centre": "Qo'rg'ontepa",
+				"latitude": "40.730175",
+				"longitude": "72.759496",
+				"addressLine": "Oʻzbekiston, Andijon viloyati, Qoʻrgʻontepa tumani, Qoʻrgʻontepa"
+			},
+			{
+				"id": 10,
+				"name": "Marhamat",
+				"centre": "Marhamat",
+				"latitude": "40.503668",
+				"longitude": "72.33338",
+				"addressLine": "Oʻzbekiston, Andijon viloyati, Marhamat tumani, Marhamat"
+			},
+			{
+				"id": 11,
+				"name": "Oltinko'l",
+				"centre": "Oltinko'l",
+				"latitude": "40.777188",
+				"longitude": "72.195165",
+				"addressLine": "Oʻzbekiston, Andijon viloyati, Oltinkoʻl tumani"
+			},
+			{
+				"id": 12,
+				"name": "Paxtaobod",
+				"centre": "Paxtaobod",
+				"latitude": "40.932504",
+				"longitude": "72.496837",
+				"addressLine": "Oʻzbekiston, Andijon viloyati, Paxtaobod tumani, Paxtaobod"
+			},
+			{
+				"id": 13,
+				"name": "Shahrixon",
+				"centre": "Shahrixon",
+				"latitude": "40.711598",
+				"longitude": "72.05094",
+				"addressLine": "Oʻzbekiston, Andijon viloyati, Shahrixon tumani, Shahrixon"
+			},
+			{
+				"id": 14,
+				"name": "Ulug'nor",
+				"centre": "Oqoltin",
+				"latitude": "40.789588",
+				"longitude": "71.703436",
+				"addressLine": "Oʻzbekiston, Andijon viloyati, Ulugʻnor tumani"
+			}
+		],
+		"latitude": "40.783368",
+		"longitude": "72.350654",
+		"addressLine": "Oʻzbekiston, Andijon"
+	},
+	{
+		"name": "Toshkent shahri",
+		"regions": [
+			{
+				"id": 1,
+				"name": "Bektemir",
+				"latitude": "41.233273",
+				"longitude": "69.334696",
+				"addressLine": "Oʻzbekiston, Toshkent, Bektemir tumani"
+			},
+			{
+				"id": 2,
+				"name": "Chilonzor",
+				"latitude": "41.28141",
+				"longitude": "69.212668",
+				"addressLine": "Oʻzbekiston, Toshkent, Chilonzor tumani"
+			},
+			{
+				"id": 3,
+				"name": "Yashnobod",
+				"latitude": "41.283463",
+				"longitude": "69.339789",
+				"addressLine": "Oʻzbekiston, Toshkent, Yashnobod tumani"
+			},
+			{
+				"id": 4,
+				"name": "Mirobod",
+				"latitude": "41.292562",
+				"longitude": "69.285683",
+				"addressLine": "Oʻzbekiston, Toshkent, Mirobod tumani"
+			},
+			{
+				"id": 5,
+				"name": "Mirzo Ulug'bek",
+				"latitude": "41.326213",
+				"longitude": "69.326916",
+				"addressLine": "Oʻzbekiston, Toshkent, Mirzo Ulugʻbek tumani"
+			},
+			{
+				"id": 6,
+				"name": "Sergeli",
+				"latitude": "41.23507",
+				"longitude": "69.247352",
+				"addressLine": "Oʻzbekiston, Toshkent, Sergeli tumani"
+			},
+			{
+				"id": 7,
+				"name": "Shayxontohur",
+				"latitude": "41.317646",
+				"longitude": "69.230581",
+				"addressLine": "Oʻzbekiston, Toshkent, Shayxontohur tumani"
+			},
+			{
+				"id": 8,
+				"name": "Olmazor",
+				"latitude": "41.35435",
+				"longitude": "69.223358",
+				"addressLine": "Oʻzbekiston, Toshkent, Olmazor tumani"
+			},
+			{
+				"id": 9,
+				"name": "Uchtepa",
+				"latitude": "41.295991",
+				"longitude": "69.175191",
+				"addressLine": "Oʻzbekiston, Toshkent, Uchtepa tumani"
+			},
+			{
+				"id": 10,
+				"name": "Yakkasaroy",
+				"latitude": "41.286004",
+				"longitude": "69.253748",
+				"addressLine": "Oʻzbekiston, Toshkent, Yakkasaroy tumani"
+			},
+			{
+				"id": 11,
+				"name": "Yunusobod",
+				"latitude": "41.364657",
+				"longitude": "69.287696",
+				"addressLine": "Oʻzbekiston, Toshkent, Yunusobod tumani"
+			}
+		],
+		"latitude": "41.311151",
+		"longitude": "69.279737",
+		"addressLine": "Oʻzbekiston, Toshkent"
+	}
+]

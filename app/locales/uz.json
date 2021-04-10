@@ -1,0 +1,115 @@
+{
+    "link": "\n\nDoimiy namoz vaqtlari\n👉 [NamozimVaqti](https://t.me/NamozimVaqtiBot)",
+    "info": "Bizning bot sizga taom buyurtma qilishingizga yordam beradi. Siz ertangi taomni buyurtma qilishingiz mumkin.",
+    "next": "Davom etish",
+    "which_day": "Qaysi kunga buyurtma qilmoqchisiz?",
+    "keyboards": {
+      "location": "📍 Joylashuv",
+      "show_products": "⏫ Mahsulotlar",
+      "next": "O'tkazib yuborish",
+      "clear": "❌ O'chirish",
+      "checkout": "🚖 Buyurtma berish",
+      "amount": {
+        "accept": "✅ Tasdiqlash"
+      },
+      "product": {
+        "amount": "Miqdorini tanlash",
+        "add_basket": "📥 Savatga qo'shish"
+      },
+      "show_more": "Yana ⏩",
+      "prev": "⏪ Orqaga",
+      "to_home": "🏠 Asosiy menyu",
+      "back": "◀️ Orqaga",
+      "main": {
+        "today": "⏳ Bugungi",
+        "weekly": "🕔 Haftalik",
+        "monthly": "🕰 Oylik",
+        "settings": "📍 Hududni o'zgartirish",
+        "notification": "🕔 Ob-havoga obuna",
+        "contact": "📞 Aloqa"
+      }
+    },
+    "lang": {
+      "uz": "🇺🇿 O'zbek",
+      "ru": "🇷🇺 Русский"
+    },
+    "greeting": "Nimadan boshlaymiz? 😋",
+    "delivering": "Yetqaziv berish:",
+    "sum": "Umumiy: ",
+    "sum_with_delivering": "Yetqazib berish bilan: ",
+    "basket_cleaned": "Savat bo'shatildi",
+    "basket_empty": "Savatingiz bo'sh",
+    "menu": "Juda yaxshi! Birgalikda buyurtma beramizmi? 😃",
+    "welcome_back": "Juda yaxshi! Birgalikda buyurtma beramizmi? 😃",
+    "ask_questions": "Savolingizni yuboring, biz sizga tez orada javob beramiz",
+    "about": "🚀 Redzo — bu oziq - ovqat buyurtma qilish va yetkazib berish xizmati.\n\n<b>Biz bilan oson va qulay buyurtma bering!</b>\n💠 t.me/redzouz\n📨  @redzo_admin\n☎️  +998337177161",
+    "choose_lang": "Выберите удобный для Вас язык, пожалуйста. \nIltimos, o'zingiz uchun tilni tanglang.",
+    "currency": " so'm",
+    "price": "💳 Narxi: ",
+    "first_greeting": "Xush kelibsiz. Nimadan boshlaymiz",
+    "social": "📲 +99895 2020077\n\n❤️ instagram.com/thechayxana",
+    "registration": "🥘 <b>Redzo </b> muhlislarining inoq oilasiga xush kelibsiz!\nEndi esa sizga sodda va ko’p vaqt olmaydigan ro’yhatdan o’tish jarayonini taklif etamiz.\n\n<b>Telefon raqamingiz qanday?</b>\nTelefon raqamingizni jo'natish uchun\n<b>📱 Raqamimni yuborish</b> tugmasini bosing.",
+    "send_name": "Sizga qanday murojaat qilsam bo'ladi?\nIsmingiz...",
+    "search": {
+      "not_found": "Sizning so'rovingizda hech narsa topilmadi",
+      "currency": "so'm",
+      "have": "Bor",
+      "price": "💳 Narxi: ",
+      "enter": "Kafe yoki restoran nomini kiriting",
+      "warning": "Kamida 3 ta belgi, kiritsangiz topa olamiz",
+      "description": "Bizning bot sizga mos variantlarni ko'rsatadi. Kamida 3 ta belgi"
+    },
+    "checkout": {
+      "kb": {
+        "send_location": "📍 Lokatsiya yuborish",
+        "send_phone": "📲 Raqamimni yuborish",
+        "cancel": "❌ Bekor qilish",
+        "accept": "✅ Tasdiqlash",
+        "payment_method": {
+          "cash": "💳 Naqd",
+          "click": "💳 Click",
+          "payme": "💳 Payme"
+        },
+        "send_time": "Eng qisqa vaqtda"
+      },
+      "send_location_old": "Yangi manzilni yuboring yoki eskisini qabul qiling. \nOxirgi manzilingiz: ",
+      "order_recived": "Rahmat sizning buyurtmangiz qabul qilindi.\nBuyurtma raqami: ",
+      "entering": "Yetkazib berish vaqti 11:00 dan 20:00 gacha va 15000 so'm.\nEslatma, yetkazish xizmati faqat Toshkent shahri uchun.",
+      "send_comment": "Qo'shimcha ma'lumotlari qoldiring",
+      "send_time": "Buyurtmani qachon olishni hohlaysiz",
+      "send_location": "Lokatsiya yuboring yoki uni yozib jo'nating, so'ng tasdiqlang",
+      "send_payment_method": "To'lov usuli",
+      "send_phone_plus": "Raqamimni yuborish tugmasini bosing yoki raqamingizni shu shaklda jo'nating: 99899 123 54 67",
+      "send_phone": "<b>Telefon raqamingiz?</b>.\n📲 Raqamimni jo'natish tugmasini bosing yoki quyidagi raqamni tasdiqlang: ",
+      "address": "<b>Manzil: </b>",
+      "bring_type": "<b>Olib ketish turi: </b>",
+      "phone_number": "<b>Telefon raqam: </b>",
+      "payment_method": "<b>To'lov usuli: </b>",
+      "time": "<b>Buyurtma olish vaqti: </b>",
+      "comment": "<b>Qo'shimcha ma'lumot: </b>",
+      "need_button": "Kerakli tugmani bosing",
+      "final_check_head": "Keling endi hammasini tekshirib olamiz😃\n\n",
+      "final_check_end": "\n\nHammasi to'g'ri bo'lsa,\n<b>✅ Tasdiqlash</b> tugmasini bosing👇",
+      "your_phone": "Raqamingiz: +",
+      "your_address": "Manzilingiz: ",
+      "location_error": "Kechirasiz biz hozircha Andijon shahriga xizmat ko'rsatamiz"
+    },
+    "order": "\nBuyurtma:\n",
+    "payment_success": "Yaxshi hammasi tayyor.\nEndi to'lov qilishingiz mumkin",
+    "deliver_service": "Yetqazish xizmati",
+    "msg_added": "Buyurtma savatga qo'shildi.\nDavom etamizmi?",
+    "alert_added": "Buyurtma savatga qo'shildi.",
+    "product": {
+      "text": "Miqdorini tanlang yoki uni o'zingiz kiriting",
+      "deliver": "Yetkazib berish vaqti:"
+    },
+    "accept": "✅ Tasdiqlash",
+    "profile": {
+      "send_phone": "Qo'ng'iroqlar uchun <strong> telefon raqamingizni </strong> yuboring.\n<strong>Shunday ko'rinishda: </strong>998** 1234567",
+      "language_changed": "Til o'zgartirildi",
+      "phone_changed": "Telefon raqami o'zgartirildi!",
+      "phone_number": "📲 Telefon raqam",
+      "setLocation": "📍 Joylashuvni o'zgartirish",
+      "what_to_change": "Siz nimani o'zgartirmoqchisiz?"
+    }
+  }

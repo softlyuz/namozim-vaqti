@@ -1,0 +1,18 @@
+{
+	"development": {
+		"username": "mcpeblocker",
+		"password": "Minecraft11004",
+		"database": "namozimvaqtibot",
+		"host": "localhost",
+		"port": 5432,
+		"dialect": "postgres"
+	},
+	"production": {
+		"username": "mcpeblocker",
+		"password": "Minecraft11004",
+		"database": "namozimvaqtibot",
+		"host": "localhost",
+		"port": 5432,
+		"dialect": "postgres"
+	}
+}

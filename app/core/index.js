@@ -1,0 +1,2 @@
+require('./mainHandler');
+require('./bot');
