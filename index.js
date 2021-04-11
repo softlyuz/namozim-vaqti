@@ -5,8 +5,8 @@ const {
 
 async function main() {
 	const db = require("./app/database/models");
-	// await db.sequelize.sync();
-	await db.sequelize.sync({ force: true }).then(() => { console.log("altered"); });
+	await db.sequelize.sync();
+	// await db.sequelize.sync({ force: true }).then(() => { console.log("altered"); });
 
 	setDataRegions(await getData());
 	// require("./app/views/posts/weeklyWeather");
