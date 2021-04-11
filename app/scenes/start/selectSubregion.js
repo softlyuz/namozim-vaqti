@@ -1,5 +1,6 @@
 const { Scenes: {BaseScene}, Markup } = require("telegraf");
 const { update } = require("../../database/controllers/user");
+const { authing } = require("../../utils/telegrafUtils");
 
 function regionsKeyboard(regions) {
   return Markup.keyboard(regions.map(r => r.name), { columns: 3 }).resize()
@@ -13,12 +14,10 @@ const selectSubRegion = new BaseScene('selectSubRegion')
       ctx.session.user.subregion = subregion
       ctx.session.user.subregionId = subregion.id
 
-      await update(ctx.from.id, ctx.session.user)
-      
+      await update(ctx.from.id, {...ctx.session.user, auth: true})
+      authing.end(ctx)
       return ctx.scene.enter("main")
     }
-
-    return ctx.scene.reenter()
   })
   .use((ctx) => ctx.scene.reenter())
 

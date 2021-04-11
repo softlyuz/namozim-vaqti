@@ -4,9 +4,9 @@ const {
 } = require("./app/database/controllers/mainController");
 
 async function main() {
-	const db = require("./app/database/models");
-	await db.sequelize.sync();
-	// await db.sequelize.sync({ force: true }).then(() => { console.log("altered"); });
+	// const db = require("./app/database/models");
+	// await db.sequelize.sync();
+	// await db.sequelize.sync({ alter: true }).then(() => { console.log("altered"); });
 
 	setDataRegions(await getData());
 	// require("./app/views/posts/weeklyWeather");

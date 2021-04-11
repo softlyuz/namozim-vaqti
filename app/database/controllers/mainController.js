@@ -3,19 +3,25 @@ const { getAll } = require("./region");
 let dataStore = {};
 
 function getData() {
-  return getAll()
-};
+	return getAll();
+}
 
 function getDataSync() {
-  return dataStore
-};
+	return dataStore;
+}
+
+function updateContext(regions) {
+	const bot = require("../../core/bot");
+	bot.context.regions = regions;
+}
 
 function setDataRegions(regions) {
-  dataStore.regions = regions
-};
+	dataStore.regions = regions;
+}
 
 module.exports = {
-  getData,
-  setDataRegions,
-  getDataSync
+	getData,
+	setDataRegions,
+	getDataSync,
+	updateContext,
 };

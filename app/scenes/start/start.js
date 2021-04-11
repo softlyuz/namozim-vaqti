@@ -1,4 +1,5 @@
 const { Scenes: {BaseScene} } = require("telegraf");
+const { authing } = require("../../utils/telegrafUtils");
 
 const initialSessionStart = (ctx) => {
 	ctx.session.first_time = true
@@ -9,6 +10,7 @@ const start = new BaseScene('start')
 	.enter(async (ctx) => {
 		initialSessionStart(ctx)
 		ctx.reply(`Assalomu alaykum, ${ctx.from.first_name}. NamozimVaqti botiga hush kelibsiz. Namoz vaqtini aniqlab olish uchun hududni tanlang yoki lokatsiya tashlang`)
+		authing.start(ctx)
 		return ctx.scene.enter("selectRegion")
 	})
 	.use((ctx) => ctx.scene.reenter())
